@@ -1,0 +1,4 @@
+aiogram
+aiohttp
+python-dotenv
+playwright~=1.11.2

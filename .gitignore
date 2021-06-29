@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+venv
+telegram_bot/.env
+.idea
+parser/__pycache__
+telegram_bot/__pycache__
+parser/pages/__pycache__

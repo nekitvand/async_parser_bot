@@ -1,0 +1,1 @@
+URL = "https://citycycle.ru/detail/velosiped_graviynyy_merida_silex_400_2021_chernyy.html"
